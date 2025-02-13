@@ -45,11 +45,11 @@ Open phpMyAdmin via http://localhost/phpmyadmin.
 Create a new database named recycled_denim.
 Import the provided SQL file (SQL/recycled_denim.sql) into the database.
 
-3.Deploy Files:
+3. Deploy Files:
 
 Place the Assignment_final folder into the htdocs directory of your XAMPP installation.
 
-4.Access the Website:
+4. Access the Website:
 
 Open your browser and go to http://localhost/Assignment_final/index.php.
 
