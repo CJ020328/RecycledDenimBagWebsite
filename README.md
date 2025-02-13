@@ -6,15 +6,14 @@ The Recycled Denim Bag Website is a sustainability-focused project developed as 
 Features：
 
 About Us Page: Highlights the purpose of the project and the mission behind promoting sustainable fashion.
+
 Product Listings: Displays available recycled denim bags with descriptions and images.
 
 User Interaction:
-
 Sign-up and login functionality (basic implementation).
 Users can explore the product catalog.
 
 Admin Panel:
-
 Add, edit, or delete products.
 Manage users and orders.
 
